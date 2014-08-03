@@ -44,5 +44,11 @@ end
 
 # this is Evan's comment
 def my_method
-  puts "Evan"
+  puts "Evan was here"
+end
+
+class Evan
+  def initialize(name)
+    @name = name
+  end
 end
