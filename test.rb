@@ -46,4 +46,5 @@ Benchmark.measure {35029850 * 4124124}
 
 
 def the_longest_method_ever_known_to_the_ruby
+	puts "Hello"
 end
