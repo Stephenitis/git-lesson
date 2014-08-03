@@ -41,18 +41,25 @@ class Git
   end
 
 end
-# OMG SOMEONE REMOVE THOSE LINES
-<<<<<<< HEAD
-# OMG SOMEONE REMOVE THOSE LINES
 
 # this is Evan's comment
 def my_method
   puts "Evan"
+
+
+class Tree
 end
-# OMG SOMEONE REMOVE THOSE LINES
-=======
-# OMG SOMEONE REMOVE THOSE LINES
-# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1s
-# OMG SOMEONE REMOVE THOSE LINES
->>>>>>> master
-# OMG SOMEONE REMOVE THOSE LINES
+
+class Orange
+end
+
+require "benchmark"
+
+Benchmark.measure {35029850 * 4124124}
+Benchmark.measure {35029850 * 4124124}
+Benchmark.measure {35029850 * 4124124}
+Benchmark.measure {35029850 * 4124124}
+Benchmark.measure {35029850 * 4124124}
+
+
+def this_is_the_longest_method_ever_known_to_the_ruby
