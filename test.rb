@@ -17,3 +17,14 @@ end
 
 class Tree
 end
+
+class Orange
+end
+
+require "benchmark"
+
+Benchmark.measure {35029850 * 4124124}
+Benchmark.measure {35029850 * 4124124}
+Benchmark.measure {35029850 * 4124124}
+Benchmark.measure {35029850 * 4124124}
+Benchmark.measure {35029850 * 4124124}
