@@ -11,3 +11,8 @@ class Git
   end
 
 end
+
+# this is Evan's comment
+def my_method
+  puts "Evan"
+end
