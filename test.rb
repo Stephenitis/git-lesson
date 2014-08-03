@@ -45,5 +45,5 @@ Benchmark.measure {35029850 * 4124124}
 Benchmark.measure {35029850 * 4124124}
 
 
-def this_is_the_longest_method_ever_known_to_the_ruby
+def the_longest_method_ever_known_to_the_ruby
 end
