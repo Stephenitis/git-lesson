@@ -41,4 +41,12 @@ class Git
   end
 
 end
+<<<<<<< HEAD
+
+# this is Evan's comment
+def my_method
+  puts "Evan"
+end
+=======
 # hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1# hey guys this is line 1s
+>>>>>>> master
