@@ -12,7 +12,13 @@ class Git
 end
 
 def my_method
-  puts "Evan"
+  puts "Evan was here"
+end
+
+class Evan
+  def initialize(name)
+    @name = name
+  end
 end
 
 class Tree
