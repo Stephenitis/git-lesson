@@ -12,6 +12,15 @@ class Git
 end
 
 def my_method
+  puts "Evan"
+
+
+class Tree
+end
+
+class Orange
+end
+
   puts "Evan was here"
 end
 
@@ -34,3 +43,7 @@ Benchmark.measure {35029850 * 4124124}
 Benchmark.measure {35029850 * 4124124}
 Benchmark.measure {35029850 * 4124124}
 Benchmark.measure {35029850 * 4124124}
+
+
+def the_longest_method_ever_known_to_the_ruby
+end
